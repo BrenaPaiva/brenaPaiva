@@ -1,4 +1,5 @@
-### Olá meu nome é👋
+### Olá👋,
+me chamo Brena, atualmente sou estudante de Desenvolvimento Web e estou ingressando na área de Análise e Desenvolvimento de sistemas na <a href="https://www.estacio.br/">Estácio</a>. Sou formada na <a href="https://www.ennet.br/">ENNET</a> em capacitação proﬁssional em informática e agora estou cursando na <a href="https://www.Udemy.com">Udemy</a> algumas linguagens e desenvolvimento da programação.
 
 <!--
 **BrenaPaiva/brenaPaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
