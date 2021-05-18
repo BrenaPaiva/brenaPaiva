@@ -3,7 +3,7 @@
 
 my name is Brena, I am currently a student of Web Development and I am entering the area of ​​Analysis and Systems Development at<a href="https://www.estacio.br/"> Estácio</a>.  I am trained at <a href="https://www.ennet.com.br/">ENNET</a> in professional computer training and now I am studying some languages ​​and programming development at <a href="https://www.Udemy.com">Udemy</a>.
 
-me chamo Brena, atualmente sou estudante de Desenvolvimento Web e estou ingressando na área de Análise e Desenvolvimento de sistemas na <a href="https://www.estacio.br/">Estácio</a>. Sou formada na <a href="https://www.ennet.com.br/">ENNET</a> em capacitação proﬁssional em informática e agora estou cursando na <a href="https://www.Udemy.com">Udemy</a> algumas linguagens e desenvolvimento da programação.
+
 
 [![Linkedin: BrenaPaiva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brena-paiva-77363717b)](https://www.linkedin.com/in/brena-paiva-77363717b)
 
