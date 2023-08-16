@@ -1,5 +1,4 @@
  
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenaPaiva&theme=radical&show_icons=true)
 
